@@ -1,0 +1,204 @@
+/* This is the parent of row_1 and row_2 */
+.container {
+    display: flex;   
+    width: 100%;     
+    height: 30px;    
+    margin-bottom: 10px; 
+}
+
+#row_1 {
+    background-color: red;
+    width: 50%;      
+    height: 100%;    
+}
+
+#row_2 {
+    background-color: blue;
+    width: 50%;      
+    height: 100%;    
+}
+
+
+#row_3 {
+    background-color:green;
+    width: 90%;      
+    height: 100%;    
+}
+
+#row_4 {
+    background-color: blue;
+    width: 10%;      
+    height: 100%;    
+}
+#row_5 {
+    background-color:red;
+    width: 5%;      
+    height: 100%;    
+}
+
+#row_6 {
+    background-color: green;
+    width: 90%;      
+    height: 100%;    
+}
+
+#row_7 {
+    background-color: blue;
+    width: 5%;      
+    height: 100%;    
+}
+#row_8 {
+    background-color: red;
+    width: 95%;      
+    height: 100%;    
+}
+#row_9 {
+    background-color: blue;
+    width: 5%;      
+    height: 100%;    
+}
+#row_10 {
+    background-color: green;
+    width: 49%;      
+    height: 100%;    
+}
+#row_11 {
+    background-color: red;
+    width: 2%;      
+    height: 100%;    
+}
+#row_12 {
+    background-color: green;
+    width: 49%;      
+    height: 100%;    
+}
+#row_13 {
+    background-color: red;
+    width: 48%;      
+    height: 100%;    
+}
+#row_14 {
+    background-color: blue;
+    width: 4%;      
+    height: 100%;    
+}
+#row_15 {
+    background-color: red;
+    width: 48%;      
+    height: 100%;    
+}
+#row_16 {
+    background-color: red;
+    width: 5%;      
+    height: 100%;    
+}
+#row_17 {
+    background-color: blue;
+    width: 95%;      
+    height: 100%;    
+}
+#row_18 {
+    background-color: green;
+    width: 91%;      
+    height: 50%;    
+}
+#row_19{
+    background-color: blue;
+    width: 2%;      
+    height: 100%;    
+}
+#row_20 {
+    background-color: yellow;
+    width: 4%;      
+    height: 100%;    
+}
+#row_21 {
+    background-color: green;
+    width: 20%;      
+    height: 100%;    
+}
+#row_22 {
+    background-color: yellow;
+    width: 4%;      
+    height: 100%;    
+}
+#row_23 {
+    background-color: green;
+    width: 20%;      
+    height: 100%;    
+}
+#row_24 {
+    background-color: yellow;
+    width: 4%;      
+    height: 100%;    
+}
+#row_25 {
+    background-color: green;
+    width: 20%;      
+    height: 100%;    
+}
+#row_26 {
+    background-color: yellow;
+    width: 4%;      
+    height: 100%;    
+}
+#row_27 {
+    background-color: green;
+    width: 20%;      
+    height: 100%;    
+}
+#row_28{
+    background-color: yellow;
+    width: 4%;      
+    height: 100%;    
+}
+#row_29 {
+    background-color: yellow;
+    width: 18%;      
+    height: 100%;    
+}
+#row_30 {
+    background-color: green;
+    width: 2%;      
+    height: 100%;    
+}
+#row_31 {
+    background-color: yellow;
+    width: 18%;      
+    height: 100%;    
+}
+#row_32 {
+    background-color: green;
+    width: 2%;      
+    height: 100%;    
+}
+#row_33 {
+    background-color: yellow;
+    width: 18%;      
+    height: 100%;    
+}
+#row_34 {
+    background-color: green;
+    width: 2%;      
+    height: 100%;    
+}
+#row_35 {
+    background-color: yellow;
+    width: 18%;      
+    height: 100%;    
+}
+#row_36 {
+    background-color: green;
+    width: 2%;      
+    height: 100%;    
+}
+#row_37{
+    background-color: yellow;
+    width: 20%;      
+    height: 100%;    
+}
+
+
+
+
+
