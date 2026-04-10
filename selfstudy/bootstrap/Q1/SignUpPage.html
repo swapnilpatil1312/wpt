@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <style>
+        body {
+            
+            background-image: linear-gradient(rgb(172, 255, 252), rgb(255, 255, 254)); /* Red at top, yellow at bottom */
+            }   
+
+        
+        .card {
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Adds a nice depth effect */
+        }
+    </style>
+    <link rel="stylesheet" href="./boot.css">
+</head>
+<body>
+    <div class="color1">
+    <div class="d-flex justify-content-center align-items-center vh-100">
+    <div class="card text-center">
+    <div class="card-header">
+        <div ><p class="h1" style="color:rgb(8, 8, 8);">Student Registration Form</p></div>
+    </div>
+    <div class="card-body" style="width: 700px;">
+        <form class="row g-3 text-start">
+            <div class="col-md-6">
+                <label for="inputFirstName"  class="form-label">First Name</label>
+                <input type="text" class="form-control" id="inputEmail4">
+            </div>
+            <div class="col-md-6">
+                <label for="inputLastName" class="form-label">Last Name</label>
+                <input type="email" class="form-control" id="inputEmail4">
+            </div>
+            <div class="col-md-6">
+                <label for="inputEmail4" class="form-label">Email</label>
+                <input type="text" class="form-control" id="inputEmail4">
+            </div>
+            <div class="col-md-6">
+                <label for="inputPassword4" class="form-label">Password</label>
+                <input type="password" class="form-control" id="inputPassword4">
+            </div>
+            <div class="col-6">
+                <label for="inputAddress" class="form-label">Address</label>
+                <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+            </div>
+            <div class="col-6">
+                <label for="inputAddress2" class="form-label">Address 2</label>
+                <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
+            </div>
+            <div class="col-md-6">
+                <label for="inputCity" class="form-label">City</label>
+                <input type="text" class="form-control" id="inputCity">
+            </div>
+            <div class="col-md-4">
+                <label for="inputState" class="form-label">State</label>
+                <select id="inputState" class="form-select">
+                <option selected>Choose...</option>
+                <option>...</option>
+                </select>
+            </div>
+            <div class="col-md-2">
+                <label for="inputZip" class="form-label">Zip</label>
+                <input type="text" class="form-control" id="inputZip">
+            </div>
+            <div class="col-12">
+                <div class="form-check text-start mb-3">
+                <input class="form-check-input" type="checkbox" id="gridCheck">
+                <label class="form-check-label" for="gridCheck">
+                    I accept terms and conditions
+                </label>
+                </div>
+            </div>
+            <div class="col-12">
+                <button type="submit" class="btn btn-primary">Create Account</button>
+            </div>
+            
+        </form>
+        </div>
+        <br>
+    <div class="card-footer text-body-secondary">
+        Have Accout?
+        <a href="login.html">Sign In</a>
+    </div>
+    </div>
+    </div>
+    </div>
+</div>
+</body>
+</html>

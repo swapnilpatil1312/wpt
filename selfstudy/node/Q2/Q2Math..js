@@ -1,0 +1,5 @@
+const math = require('./Q2.js')
+console.log('Hello world')
+console.log(math)
+math.add(10, 20)
+math.sub(20, 10)

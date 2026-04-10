@@ -1,0 +1,7 @@
+{
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "pages": 310,
+  "is_available": true,
+  "genres": ["Fantasy", "Adventure"]
+} 
